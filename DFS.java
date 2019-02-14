@@ -1,6 +1,5 @@
-/** Starter code for SP8
- *  Karan Thakkar - krt170130
- *  Bhavya Kashetty - bxk180012
+/**
+ *  Bhavya Kashetty 
  */
 
 package bxk180012;

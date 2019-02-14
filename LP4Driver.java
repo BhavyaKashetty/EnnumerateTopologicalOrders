@@ -1,6 +1,4 @@
 
-// Change to your netid
-package bxk180012;
 
 import java.util.Scanner;
 

@@ -2,8 +2,6 @@
  *  Bhavya Kashetty 
  */
 
-package bxk180012;
-
 import rbk.Graph;
 import rbk.Graph.Vertex;
 import rbk.Graph.Edge;
